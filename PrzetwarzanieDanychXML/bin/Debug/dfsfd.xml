@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studenci>
+  <student>
+    <imie>Marcin</imie>
+    <nazwisko>Urbanowicz</nazwisko>
+    <nr_albumu>123123</nr_albumu>
+  </student>
+</studenci>

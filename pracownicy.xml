@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<osoby>
+  <osoba>
+    <id>1</id>
+    <imie>Marcin</imie>
+    <nazwisko>Urbanowicz</nazwisko>
+    <stanowisko>haha</stanowisko>
+  </osoba>
+  <osoba>
+    <id>2</id>
+    <imie>Jan</imie>
+    <nazwisko>Nowak</nazwisko>
+    <stanowisko>Manager</stanowisko>
+  </osoba>
+  <osoba>
+    <id>3</id>
+    <imie>Monika</imie>
+    <nazwisko>Kowalska</nazwisko>
+    <stanowisko>Rekruter</stanowisko>
+  </osoba>
+  <osoba>
+    <id>4</id>
+    <imie>John</imie>
+    <nazwisko>Smith</nazwisko>
+    <stanowisko>Rekruter</stanowisko>
+  </osoba>
+</osoby>

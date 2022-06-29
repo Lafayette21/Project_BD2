@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studenci>
+  <student>
+    <imie>Marcin</imie>
+    <nazwisko>Roman</nazwisko>
+    <nr_albumu>123123</nr_albumu>
+  </student>
+  <student>
+    <imie>Damian</imie>
+    <nazwisko>Nowak</nazwisko>
+    <nr_albumu>424925</nr_albumu>
+  </student>
+  <student>
+    <imie>Tomasz</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <nr_albumu>532212</nr_albumu>
+  </student>
+  <student>
+    <imie>Marcin</imie>
+    <nazwisko>Urbanowicz</nazwisko>
+    <nr_albumu>123123</nr_albumu>
+  </student>
+</studenci>

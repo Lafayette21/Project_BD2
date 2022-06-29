@@ -1,0 +1,17 @@
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\bin\Debug\PrzetwarzanieDanychXML.exe.config
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\bin\Debug\PrzetwarzanieDanychXML.exe
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\bin\Debug\PrzetwarzanieDanychXML.pdb
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.exe
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.pdb
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.EntryForm.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.AddNodeForm.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.XmlActionsForm.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.RemoveNodeForm.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.CreateXmlForm.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.ModifyNodeForm.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.ContentToModifyForm.resources
+C:\Users\Marcin\Desktop\Projekt BD2\PrzetwarzanieDanychXML\obj\Debug\PrzetwarzanieDanychXML.SearchForm.resources
